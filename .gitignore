@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.hprof
+
+# Android build outputs
+app/build/
+
+# Gradle wrapper (keep wrapper scripts, ignore downloaded dist)
+gradle/wrapper/gradle-wrapper.jar
