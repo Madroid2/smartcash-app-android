@@ -4,6 +4,22 @@ SmartCash is a native Android rewards application that lets users earn real mone
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/home.gif" width="270" alt="Home Screen — featured portals, daily earnings, streak tracker and banner ad"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/wallet.gif" width="270" alt="Wallet Screen — live balance, earnings breakdown, PayPal withdrawal and transaction history"/>
+</p>
+
+<p align="center">
+  <em>Home — featured portals carousel, daily earnings & streak tracker</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Wallet — live balance, breakdown chart & PayPal withdrawal</em>
+</p>
+
+---
+
 ## Features
 
 - **Earn Hub** — Browse and launch real reward portals across three categories:
@@ -154,8 +170,8 @@ docker-compose up --build
 
 ### Build
 ```bash
-git clone https://github.com/Madroid2/SmartCash.git
-cd SmartCash
+git clone https://github.com/Madroid2/smartcash-app-android.git
+cd smartcash-app-android
 # Open in Android Studio and sync Gradle
 ```
 
@@ -166,4 +182,3 @@ The project references Apex Ad SDK AARs from `app/libs/`. These are included in 
 ## License
 
 Private repository. All rights reserved.
-# smart-cash-app-android
