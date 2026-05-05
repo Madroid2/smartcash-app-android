@@ -4,6 +4,12 @@ SmartCash is a native Android rewards application that lets users earn real mone
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="docs/demo.gif" width="300" alt="SmartCash app demo"/>
+</p>
+
 ## Screenshots
 
 <p align="center">
@@ -181,4 +187,4 @@ The project references Apex Ad SDK AARs from `app/libs/`. These are included in 
 
 ## License
 
-Private repository. All rights reserved.
+Copyright © 2026 **Madhur Lalit** ([@Madroid2](https://github.com/Madroid2)). All rights reserved. See [LICENSE](LICENSE) for details.

@@ -13,6 +13,7 @@
         android:label="SmartCash"
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartCash"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
 
         <meta-data
