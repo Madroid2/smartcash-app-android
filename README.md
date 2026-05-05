@@ -7,7 +7,7 @@ SmartCash is a native Android rewards application that lets users earn real mone
 ## Demo
 
 <p align="center">
-  <img src="docs/demo.gif" width="300" alt="SmartCash app demo"/>
+  <img src="docs/demo.gif" width="900" alt="SmartCash app demo"/>
 </p>
 
 ## Screenshots
